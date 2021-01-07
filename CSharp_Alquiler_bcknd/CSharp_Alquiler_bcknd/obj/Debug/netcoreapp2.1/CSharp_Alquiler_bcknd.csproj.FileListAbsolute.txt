@@ -1,0 +1,14 @@
+C:\Users\clari\Documents\! HNL dic\CSharp_Alquiler_bcknd\CSharp_Alquiler_bcknd\bin\Debug\netcoreapp2.1\CSharp_Alquiler_bcknd.deps.json
+C:\Users\clari\Documents\! HNL dic\CSharp_Alquiler_bcknd\CSharp_Alquiler_bcknd\bin\Debug\netcoreapp2.1\CSharp_Alquiler_bcknd.runtimeconfig.json
+C:\Users\clari\Documents\! HNL dic\CSharp_Alquiler_bcknd\CSharp_Alquiler_bcknd\bin\Debug\netcoreapp2.1\CSharp_Alquiler_bcknd.runtimeconfig.dev.json
+C:\Users\clari\Documents\! HNL dic\CSharp_Alquiler_bcknd\CSharp_Alquiler_bcknd\bin\Debug\netcoreapp2.1\CSharp_Alquiler_bcknd.dll
+C:\Users\clari\Documents\! HNL dic\CSharp_Alquiler_bcknd\CSharp_Alquiler_bcknd\bin\Debug\netcoreapp2.1\CSharp_Alquiler_bcknd.pdb
+C:\Users\clari\Documents\! HNL dic\CSharp_Alquiler_bcknd\CSharp_Alquiler_bcknd\obj\Debug\netcoreapp2.1\CSharp_Alquiler_bcknd.csprojAssemblyReference.cache
+C:\Users\clari\Documents\! HNL dic\CSharp_Alquiler_bcknd\CSharp_Alquiler_bcknd\obj\Debug\netcoreapp2.1\CSharp_Alquiler_bcknd.csproj.CoreCompileInputs.cache
+C:\Users\clari\Documents\! HNL dic\CSharp_Alquiler_bcknd\CSharp_Alquiler_bcknd\obj\Debug\netcoreapp2.1\CSharp_Alquiler_bcknd.RazorAssemblyInfo.cache
+C:\Users\clari\Documents\! HNL dic\CSharp_Alquiler_bcknd\CSharp_Alquiler_bcknd\obj\Debug\netcoreapp2.1\CSharp_Alquiler_bcknd.RazorAssemblyInfo.cs
+C:\Users\clari\Documents\! HNL dic\CSharp_Alquiler_bcknd\CSharp_Alquiler_bcknd\obj\Debug\netcoreapp2.1\CSharp_Alquiler_bcknd.AssemblyInfoInputs.cache
+C:\Users\clari\Documents\! HNL dic\CSharp_Alquiler_bcknd\CSharp_Alquiler_bcknd\obj\Debug\netcoreapp2.1\CSharp_Alquiler_bcknd.AssemblyInfo.cs
+C:\Users\clari\Documents\! HNL dic\CSharp_Alquiler_bcknd\CSharp_Alquiler_bcknd\obj\Debug\netcoreapp2.1\CSharp_Alquiler_bcknd.RazorTargetAssemblyInfo.cache
+C:\Users\clari\Documents\! HNL dic\CSharp_Alquiler_bcknd\CSharp_Alquiler_bcknd\obj\Debug\netcoreapp2.1\CSharp_Alquiler_bcknd.dll
+C:\Users\clari\Documents\! HNL dic\CSharp_Alquiler_bcknd\CSharp_Alquiler_bcknd\obj\Debug\netcoreapp2.1\CSharp_Alquiler_bcknd.pdb
